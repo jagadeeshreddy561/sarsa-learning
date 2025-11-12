@@ -25,8 +25,8 @@ Update State and Action and repeat the step 3 untill the episodes ends.
 
 # SARSA LEARNING FUNCTION
 
-### DEVELOPED BY: Gumma Dileep Kumar
-### REGISTER NO: 212222240032
+### DEVELOPED BY: Mallu Jagadeeswar Reddy
+### REGISTER NO: 212222240059
 ```python
 
 def sarsa(env,
@@ -67,21 +67,22 @@ def sarsa(env,
 # OUTPUT:
 ## optimal policy, optimal value function , success rate for the optimal policy.
 
-![RL_6 1](https://github.com/user-attachments/assets/704fbbac-37f7-45c6-83ae-2e9b3844ddfd)
 
-![RL_6 2](https://github.com/user-attachments/assets/cf5c8e4a-50d7-4703-bd48-607c18d34f65)
 
+<img width="592" height="318" alt="Screenshot 2025-11-12 232841" src="https://github.com/user-attachments/assets/dd372530-5bb5-409b-b49c-48b5b4ce5cce" />
+
+<img width="831" height="644" alt="Screenshot 2025-11-12 233255" src="https://github.com/user-attachments/assets/26a36994-eaff-4b62-8e6a-8b876527e043" />
 
 ## state value functions of Monte Carlo method:
 
+<img width="1660" height="499" alt="Screenshot 2025-11-12 233018" src="https://github.com/user-attachments/assets/58c5c84a-4473-47ee-86f9-1f5acbb1fb5e" />
 
-![RL_6 3](https://github.com/user-attachments/assets/fd3945d2-d151-44b5-a665-52f36c5063e0)
 
 
 ## State value functions of SARSA learning:
 
 
-![RL_6 4](https://github.com/user-attachments/assets/0c674149-8451-4b87-beaf-9a95df6eb90f)
+<img width="1630" height="525" alt="Screenshot 2025-11-12 233039" src="https://github.com/user-attachments/assets/727005a7-a321-4ffb-8258-148c889ff421" />
 
 
 # RESULT:
